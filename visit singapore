@@ -3,17 +3,26 @@ This project is part of the coursera IBM applied data science capstone project
 Project Title: Visit Singapore
 
 The problem: 
-I am part of a tour company in Singapore and am in charge of locating the best accommodations to stay at. In order to figure this out, I will have to gather data regarding the following:
+I am part of a tour company in Singapore and am in charge of locating the best accommodations to stay at. In order to figure this out, 
+I will have to gather data regarding the following:
 •	Attractions in Singapore: E.g Museums, historical sites
 •	Food
 •	Accommodation 
 
 Background:
-Often times finding the best play to stay at during a visit can be tough, with an overload of information and options. It would be good to be presented a set of options that have filtered for:
+Often times finding the best play to stay at during a visit can be tough, with an overload of information and options. 
+It would be good to be presented a set of options that have filtered for:
 •	Near local attractions
 •	Affordability
 •	Ratings
 
-In order to choose an accommodation, I hypothesize that the accommodation should be in close proximity to where the hotspot tourist attractions are. This can be done by using spatial analysis, to find the best neighbourhood in Singapore that is surrounded by the most attractions. This can be done by aggregating the attractions in different neighbourhoods of Singapore. I will also factor in transport network, price, and rating of the accommodation. 
+In order to choose an accommodation, I hypothesize that the accommodation should be in close proximity to where the hotspot 
+tourist attractions are. This can be done by using spatial analysis, to find the best neighbourhood in Singapore that is 
+surrounded by the most attractions. This can be done by aggregating the attractions in different neighbourhoods of Singapore. 
+I will also factor in transport network, price, and rating of the accommodation. 
 
-After I have located where all the attractions in Singapore are, and potential accommodations to stay in, I can then plan out food and additional activities based on location. This will be done by using foursquare API that allows searching for recommended venues nearby a specified location. This is useful as sometimes tourists get tired and just want to visit locations that are nearby to where their accommodation is located. Having a list of things to do, places to eat, around their accommodation will be helpful for them, providing them good and useful options.
+After I have located where all the attractions in Singapore are, and potential accommodations to stay in, I can then plan out food and 
+additional activities based on location. This will be done by using foursquare API that allows searching for recommended venues nearby 
+a specified location. This is useful as sometimes tourists get tired and just want to visit locations that are nearby to where their 
+accommodation is located. Having a list of things to do, places to eat, around their accommodation will be helpful for them, providing 
+them good and useful options.
